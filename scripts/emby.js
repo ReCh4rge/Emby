@@ -63,7 +63,7 @@ const myResponse = {
 };
 
 var $util = util();
-//$util.notify('Emby Premiere 已激活');
+
 $util.done(myResponse);
 
 function util() {
